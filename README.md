@@ -76,3 +76,18 @@ The models perform strongly for HDF, PWF and OSF, while TWF and RNF remain chall
 **Manas Laha**
 
 Mathematics Student | Interested in Artificial Intelligence and Machine Learning
+This project was developed as an independent machine learning coursework project.
+
+## 📚 Dataset Acknowledgement
+
+This project uses the **AI4I 2020 Predictive Maintenance Dataset**, obtained from the UCI Machine Learning Repository.
+
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/601/ai4i)
+- **Dataset:** AI4I 2020 Predictive Maintenance Dataset
+- **Year:** 2020
+- **DOI:** [10.24432/C5HS5C](https://doi.org/10.24432/C5HS5C)
+- **Dataset licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The dataset is synthetic and represents predictive maintenance scenarios in industrial environments.
+
+Credit: UCI Machine Learning Repository and the dataset's contributors.
