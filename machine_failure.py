@@ -54,7 +54,9 @@ warnings.filterwarnings("ignore")
 sns.set_theme(style="whitegrid")
 RS = 42   # random seed used everywhere
 
-df= pd.read_csv("/content/ai4i2020.csv")
+df = pd.read_csv("ai4i2020.csv")
+
+
 
 # short, code-friendly column names
 df = df.rename(columns={
